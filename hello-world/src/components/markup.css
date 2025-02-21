@@ -1,0 +1,36 @@
+.nav-list{
+    list-style: none;
+    display: flex;
+}
+
+.header-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-list-list{
+    margin-left: 10px;
+    font-size: 1.1rem;
+}
+
+.markup-logo{
+    width: 60px;
+}
+
+.nav-bar{
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.header{
+    background-color: black;
+    padding: 30px 25px;
+    height: 90px;
+}
+
+.span{
+    color: #61dafb;
+    font-size: 1.4rem;
+}
